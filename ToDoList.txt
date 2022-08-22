@@ -1,0 +1,6 @@
+En este txt voy a anotar las cosas para hacer.
+
+Agosto 2022
+- crear repositorios Front End y Back End
+- crear ramas de trabajo
+- crear prototipo / arquitectura web
